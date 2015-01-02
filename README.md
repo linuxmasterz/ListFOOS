@@ -1,6 +1,6 @@
 ListFOOS
 ========
+#Список свободного программного обеспечения (СПО) для системного администратора
 
-Список свободного программного обеспечения (СПО)
-Welcome to the ListFOOS wiki!
-[ЛинуксМастер](https://github.com/linuxmasterz)
+### Управление предприятием (ERP)
+1. [Odoo](https://www.odoo.com/) - описание ([GitHub](https://github.com/odoo))
