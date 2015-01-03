@@ -15,3 +15,12 @@ ListFOOS - cписок свободного программного обесп�
 1. [OpenKM](http://www.openkm.com/en/) - система электронного документооборота ([SourceForge](http://sourceforge.net/projects/openkm/))
 2. [LogicalDOC](http://www.logicaldoc.com/en.html) - система электронного документооборота ([SourceForge](http://sourceforge.net/projects/logicaldoc/))
 3. [Nuxeo](http://www.nuxeo.com/) - система электронного документооборота ([GitHub](https://github.com/nuxeo/nuxeo))
+
+### Управление ИТ-активами
+1. [Kwok](http://www.kwoksys.com/) - система управления ИТ-активами ([SourceForge](http://sourceforge.net/projects/kwok/))
+2. [iTop](http://www.combodo.com/spip.php?page=rubrique&id_rubrique=8) - система управления ИТ-активами ([SourceForge](http://sourceforge.net/projects/itop/))
+3. [i-doit](http://www.i-doit.org/) - система управления ИТ-активами ([SourceForge](http://sourceforge.net/projects/i-doit/))
+4. [CMDBuild](http://www.cmdbuild.org/it) - система управления ИТ-активами ([SourceForge](http://sourceforge.net/projects/cmdbuild/))
+5. [Kuwaiba](http://kuwaiba.neotropic.co/) - система управления ИТ-активами ([SourceForge](http://sourceforge.net/projects/kuwaiba/))
+6. [OCS Inventory NG](http://ocsinventory-ng.org/en/) - система управления ИТ-активами
+7. [Racktables](http://racktables.org/) - система управления ИТ-активами ([SourceForge](http://sourceforge.net/projects/racktables/))
