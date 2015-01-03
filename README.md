@@ -10,3 +10,8 @@ ListFOOS - cписок свободного программного обесп�
 3. [Zurmo](http://zurmo.org/) - CRM - система ([SourceForge](http://sourceforge.net/projects/zurmo/))
 4. [EspoCRM](http://www.espocrm.com/) - CRM - система ([SourceForge](http://sourceforge.net/projects/espocrm/))
 5. [SuiteCRM](https://suitecrm.com/) - CRM - система ([GitHub](https://github.com/salesagility/SuiteCRM))
+
+### Электронный документооборот (DMS)
+1. [OpenKM](http://www.openkm.com/en/) - система электронного документооборота ([SourceForge](http://sourceforge.net/projects/openkm/))
+2. [LogicalDOC](http://www.logicaldoc.com/en.html) - система электронного документооборота ([SourceForge](http://sourceforge.net/projects/logicaldoc/))
+3. [Nuxeo](http://www.nuxeo.com/) - система электронного документооборота ([GitHub](https://github.com/nuxeo/nuxeo))
