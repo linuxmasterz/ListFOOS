@@ -30,3 +30,7 @@ ListFOOS - cписок свободного программного обесп�
 2. [FreeNAS](http://www.freenas.org/) - свободная ОС для сетевого хранилища ([GitHub](https://github.com/freenas/freenas))
 3. [Seafile](http://seafile.com/en/home/) - открытая платформа для построения частных облачных хранилищ для синхронизации и совместной работы с файлами ([GitHub](https://github.com/haiwen/seafile))
 4. [OpenFiler](https://www.openfiler.com/) - ОС, которая предоставляет возможность выделять файловые устройства NAS и блочные устройства SAN ([SourceForge](http://sourceforge.net/projects/openfiler/))
+
+###  Help и Sevice Desk
+1. [GLPI](http://www.glpi-project.org/) - система работы с заявками и инцидентами, а также для инвентаризации компьютерного оборудования ([Forge INDEPNET](https://forge.indepnet.net/projects/glpi), [GitHub](https://github.com/fusinv/glpi))
+2. [OTRS](http://www.otrs.com/?lang=ru) - открытая система обработки заявок ([OTRS](https://github.com/OTRS/otrs))
