@@ -33,4 +33,4 @@ ListFOOS - cписок свободного программного обесп�
 
 ###  Help и Sevice Desk
 1. [GLPI](http://www.glpi-project.org/) - система работы с заявками и инцидентами, а также для инвентаризации компьютерного оборудования ([Forge INDEPNET](https://forge.indepnet.net/projects/glpi), [GitHub](https://github.com/fusinv/glpi))
-2. [OTRS](http://www.otrs.com/?lang=ru) - открытая система обработки заявок ([OTRS](https://github.com/OTRS/otrs))
+2. [OTRS](http://www.otrs.com/?lang=ru) - открытая система обработки заявок ([GitHub](https://github.com/OTRS/otrs))
