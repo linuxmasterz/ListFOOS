@@ -24,3 +24,8 @@ ListFOOS - cписок свободного программного обесп�
 5. [Kuwaiba](http://kuwaiba.neotropic.co/) - система управления ИТ-активами ([SourceForge](http://sourceforge.net/projects/kuwaiba/))
 6. [OCS Inventory NG](http://ocsinventory-ng.org/en/) - система управления ИТ-активами
 7. [Racktables](http://racktables.org/) - система управления ИТ-активами ([SourceForge](http://sourceforge.net/projects/racktables/))
+###  Файловые хранилища
+1. [ownCloud](https://owncloud.org/) - хранение, синхронизация и расшаривание файлов ([GitHub](https://github.com/owncloud/core))
+2. [FreeNAS](http://www.freenas.org/) - свободная ОС для сетевого хранилища ([GitHub](https://github.com/freenas/freenas))
+3. [Seafile](http://seafile.com/en/home/) - открытая платформа для построения частных облачных хранилищ для синхронизации и совместной работы с файлами ([GitHub](https://github.com/haiwen/seafile))
+4. [OpenFiler](https://www.openfiler.com/) - ОС, которая предоставляет возможность выделять файловые устройства NAS и блочные устройства SAN ([SourceForge](http://sourceforge.net/projects/openfiler/))
